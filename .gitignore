@@ -38,3 +38,5 @@ demo/node_modules
 demo/.next
 next-api/node_modules
 next-api/.next
+next-app/node_modules
+next-app/.next
