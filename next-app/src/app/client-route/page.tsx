@@ -1,10 +1,11 @@
 "use client";
 
-import { serverSideFunction } from "@/utils/server-utils";
+import { clientSideFunction } from "@/utils/client-utils";
+import Image from "next/image";
 
 export default function ClientRoutePage() {
   console.log("Client rendered");
-  const result = serverSideFunction();
+  const result = clientSideFunction();
   return (
     <div>
       <h1>Client Route Page</h1>
