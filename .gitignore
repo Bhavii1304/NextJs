@@ -44,3 +44,5 @@ caching/node_modules
 caching/.next
 optimizations/node_modules
 optimizations/.next
+authentication/node_modules
+authentication/.next
