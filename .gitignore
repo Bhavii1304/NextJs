@@ -40,3 +40,7 @@ next-api/node_modules
 next-api/.next
 next-app/node_modules
 next-app/.next
+caching/node_modules
+caching/.next
+optimizations/node_modules
+optimizations/.next
