@@ -47,3 +47,5 @@ optimizations/node_modules
 optimizations/.next
 authentication/node_modules
 authentication/.next
+page-routing/node_modules
+page-routing/.next
