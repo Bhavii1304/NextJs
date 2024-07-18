@@ -49,3 +49,6 @@ authentication/node_modules
 authentication/.next
 page-routing/node_modules
 page-routing/.next
+prj-events/node_modules
+prj-events/.next
+prj-events/.vscode
